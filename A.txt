@@ -1,0 +1,10 @@
+  import java.awt.*;
+class Demo {
+
+Demo(){
+ setSize(400,500);
+ setVisible(true);
+}
+ public static void main(String[]args){
+  new Demo();
+}}
